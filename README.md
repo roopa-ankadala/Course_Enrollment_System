@@ -89,5 +89,3 @@ The main objective of this project is to develop a database-driven application t
 ## 👩‍💻 Developed By
 
 **Roopa Ankadala**
-
-Course Enrollment System – Academic Project
